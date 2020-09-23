@@ -3,8 +3,41 @@
   color: blue;
 }
 .nav-spacing {
-  text-align: right;
+  margin-left: 10px;
   text-decoration: none;
   color: blue;
-  margin-left: 10px;
+}
+.image-link {
+  text-decoration: none;
+}
+.padding {
+  padding: 10px
+}
+.moby-header {
+  text-align: center;
+  margin: 0 0 80px;
+}
+.moby-sperm-whale {
+  display: block;
+  margin: 0 auto
+}
+.moby-classic-tale {
+  width: 500px;
+  margin: 20px auto;
+  padding: 30px;
+  background-color: #fafafa;
+}
+.moby-dick {
+  float: left;
+  margin-right: 40px;
+}
+.moby-block {
+  font-style: italic;
+  font-size: 20px;
+}
+.moby-span {
+  style="font-style: normal;
+  font-size: 24px;
+  font-weight: bold;
+  color: #ff0000;
 }
